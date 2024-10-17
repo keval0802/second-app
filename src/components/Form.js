@@ -93,7 +93,6 @@ const Form = () => {
         <label for="vehicle3"> I have a boat</label><br /><br />
 
         <button type="button" onClick={() => handleSubmit()}>Sumbit</button>
-        <button type="button" >Reset</button>
         <button type="button" style={{ marginLeft: 8 }} onClick={() => handleNavigat()}>Go to Table</button>
       </div>
     </div>
