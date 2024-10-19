@@ -8,6 +8,7 @@ function TableData(props) {
   const handleNavigat = () => {
     navigate("/")
   }
+  
 
   const handleEdit = (index) => {
 
