@@ -8,7 +8,7 @@ function TableData(props) {
   const handleNavigat = () => {
     navigate("/")
   }
-  
+
 
   const handleEdit = (index) => {
 
@@ -30,7 +30,7 @@ function TableData(props) {
                 <th>City</th>
                 <th>Gender</th>
                 <th>vehicle</th>
-                <th>Delete & Edit</th>
+                <th>Action</th>
               </tr>
             </thead>
             <tbody>
